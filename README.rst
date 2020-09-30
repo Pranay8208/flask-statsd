@@ -4,7 +4,7 @@ Flask-StatsD
 This is a simple Flask extension that allows to access statsd in your Flask application.
 
 
-Installation
+Installation Process:
 ------------
 
 To install it, simply: ::
